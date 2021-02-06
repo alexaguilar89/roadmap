@@ -4,6 +4,7 @@ Thank you for the interest in Docker and our products!
 This is the public roadmap for Docker Products and Services (Hub, Desktop, Engine, docker-compose, Docker App).
 
 # Introduction
+
 We want to share with our customers what we plan to do early and often so we can get your feedback on if these are the right things for us to be focusing on. This also allows our customers to make early decisions based on what we are/are not building. 
 
 [See the roadmap »](https://github.com/docker/docker-roadmap/projects)
@@ -12,7 +13,7 @@ We want to share with our customers what we plan to do early and often so we can
 
 ## Early Access to features 
 
-For users of Docker Desktop we provide early access to new features through our Docker Desktop Edge channel. 
+For users of Docker Desktop we provide early access to new features through our Docker Desktop Edge channel.
 
 Issues tagged In Preview for Docker Desktop on the public roadmap are available in the Edge Channel. 
 
